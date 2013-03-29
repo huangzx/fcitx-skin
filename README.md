@@ -1,0 +1,4 @@
+fcitx-skin
+==========
+
+Fcitx Skins
